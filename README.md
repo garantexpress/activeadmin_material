@@ -1,3 +1,5 @@
+Backport of v1.5.1 for next stack: Ruby 2.2.6 + Rails 3.2.22.5 + ActiveAdmin 1.0.0.pre5
+
 # ActiveMaterial
 
 An ActiveAdmin skin based on Google's Material Design.
